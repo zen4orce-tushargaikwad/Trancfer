@@ -1,0 +1,11 @@
+Hello,
+
+You have an assignment from TurboPLM for your approval.  The due date for the approval is a week from today.  Please use the succeeding link to access your assignment; {!Project__c.Link}
+
+If you have any questions or concern with this request, please use the Chat to reach out to the requester or other functional members.  
+
+Thank you in advance for your prompt attention to this request.
+
+Have fun,
+
+{!Project__c.CreatedBy}
